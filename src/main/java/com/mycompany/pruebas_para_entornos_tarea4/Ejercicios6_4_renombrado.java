@@ -8,6 +8,8 @@ public class Ejercicios6_4_renombrado
 
     public static void main(String[] args) 
     {
-        System.out.println("he cambiado el texto de este mensaje");    
+        System.out.println("he cambiado el texto de este mensaje"); 
+
+        System.out.println("Este texto se edita desde GitHub");
     }
 }
