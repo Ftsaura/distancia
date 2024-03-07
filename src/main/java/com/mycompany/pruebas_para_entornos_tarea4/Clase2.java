@@ -8,6 +8,9 @@ package com.mycompany.pruebas_para_entornos_tarea4;
  *
  * @author ftsau
  */
+
+/**Comentario de la clase2*/
+
 public class Clase2 {
     
 }
